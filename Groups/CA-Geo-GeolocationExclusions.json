@@ -1,0 +1,9 @@
+{
+  "description": "Members of this group are excluded from geolocation policies. Members should be added and removed as needed.",
+  "displayName": "CA - Geo - Geolocation Exclusions",
+  "groupTypes": [
+  ],
+  "mailEnabled": false,
+  "mailNickname": "CA-Geo-GeolocationExclusions",
+  "securityEnabled": true
+}

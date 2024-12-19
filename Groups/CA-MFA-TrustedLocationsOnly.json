@@ -1,0 +1,9 @@
+{
+  "description": "Members of this group can sign-in only from trusted locations, but can do so without MFA.",
+  "displayName": "CA - MFA - Trusted Locations Only",
+  "groupTypes": [
+  ],
+  "mailEnabled": false,
+  "mailNickname": "CA-MFA-TrustedLocationsOnly",
+  "securityEnabled": true
+}

@@ -1,0 +1,10 @@
+{
+    "@odata.context": "https://graph.microsoft.com/beta/$metadata#identity/conditionalAccess/namedLocations",
+    "@odata.type": "#microsoft.graph.countryNamedLocation",
+    "displayName": "United States",
+    "countriesAndRegions": [
+        "US"
+    ],
+    "includeUnknownCountriesAndRegions": false,
+    "countryLookupMethod": "clientIpAddress"
+}
